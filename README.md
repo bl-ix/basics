@@ -1,4 +1,4 @@
-# basics
+# The Basics
 The basic AS scripts.
 ben@dozer-labs.com
 
